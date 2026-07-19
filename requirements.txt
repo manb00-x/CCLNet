@@ -1,0 +1,13 @@
+opencv-python
+psutil
+matplotlib
+tqdm
+dill
+timm==1.0.7
+einops
+efficientnet-pytorch
+PyWavelets
+thop
+pandas
+scipy
+seaborn
