@@ -1,4 +1,4 @@
-# <你的项目名称，例如 CCL-Net>
+# <CCLNet>
 
 ### Important Notice
 > ⚠️ This repository currently provides **partial core code** for academic reference. 
@@ -9,9 +9,8 @@
 ---
 
 ## Paper Information
-- **Title**: <你的论文标题>
-- **Authors**: <作者姓名列表>
-- **Status**: Under review
+- **Title**: <CCL-Net: A Cross-Modal Collaborative Learning Network for RGB-D Insulator Defect Detection>
+- **Authors**: <Yu Huang, Ran Shu, Shibo Zeng and Feifei Hu>
 
 ---
 
@@ -31,5 +30,3 @@ Currently, the following contents are available in this repository:
 
 ---
 
-## Contact
-For any academic inquiries, please contact: <你的邮箱地址>
